@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @mukhammedmedisov
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in тоже ничего 
+- 🌱 I’m currently learning ничего 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: no no no 
-- ⚡ Fun fact: football 
+- 😄 Pronouns: никак
+- ⚡ Fun fact: 
 
 <!---
 mukhammedmedisov/mukhammedmedisov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
